@@ -33,11 +33,6 @@ title: Accueil
 .subtitle { color:#6b7280; margin-top:0; }
 </style>
 
-<div class="header">
-  <h1>{{ site.title }}</h1>
-  <p class="subtitle">{{ site.description }}</p>
-</div>
-
 ## Projets
 
 <div class="grid">
