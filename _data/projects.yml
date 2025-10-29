@@ -1,19 +1,19 @@
 - name: VC BDD
   repo: louiscapellari/vc_bdd
-  description: Schémas/scripts de base de données liés au projet VC
+  description: Base de données de test pour la commune de Val-Cenis (Savoie, 73, France)
 
 - name: ETL API Carto & Audit Données
   repo: louiscapellari/etl_api_carto_et_audit_donnees
-  description: Pipeline ETL depuis API carto + contrôles de qualité
+  description: Pipeline ETL simple utilisant l'API CARTO de l'IGN, et audit des données récupérées
 
 - name: ETL VC
   repo: louiscapellari/etl_vc
-  description: Extraction–Transformation–Chargement pour le projet VC
+  description: Pipeline ETL données géospatiales sur la commune de Val-Cenis
 
 - name: Analyse Multicritère Val Cenis
   repo: louiscapellari/Analyse_Multicritere_Val_Cenis
-  description: Analyse décisionnelle multi-critères sur Val Cenis
+  description: Analyse Multicritère pour déterminer les secteurs favorables à l'implantation d'un refuge dans la commune de Val-Cenis
 
 - name: Analyses SQL VC
   repo: louiscapellari/analyses_SQL_VC
-  description: Requêtes et analyses SQL pour VC
+  description: Analyses SQL à partir de base de données "vc_bdd"
