@@ -1,13 +1,19 @@
-- name: Mon App A
-  repo: louiscapellari/mon-app-a
-  description: Application web React pour X
-  demo_url: https://louiscapellari.github.io/mon-app-a/
+- name: VC BDD
+  repo: louiscapellari/vc_bdd
+  description: Schémas/scripts de base de données liés au projet VC
 
-- name: API B
-  repo: louiscapellari/api-b
-  description: API Node/Express (JWT, Prisma)
-  demo_url:
+- name: ETL API Carto & Audit Données
+  repo: louiscapellari/etl_api_carto_et_audit_donnees
+  description: Pipeline ETL depuis API carto + contrôles de qualité
 
-- name: Script C
-  repo: louiscapellari/script-c
-  description: Automatisation Python pour Y
+- name: ETL VC
+  repo: louiscapellari/etl_vc
+  description: Extraction–Transformation–Chargement pour le projet VC
+
+- name: Analyse Multicritère Val Cenis
+  repo: louiscapellari/Analyse_Multicritere_Val_Cenis
+  description: Analyse décisionnelle multi-critères sur Val Cenis
+
+- name: Analyses SQL VC
+  repo: louiscapellari/analyses_SQL_VC
+  description: Requêtes et analyses SQL pour VC
