@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
-title: Portfolio Louis Capellari
-description: Portfolio Louis Capellari
+
+title: Louis Capellari
+description: Portfolio, projets GitHub et expériences
+timezone: Europe/Paris
+
+nav:
+  - name: Accueil
+    url: /
+  - name: À propos
+    url: /about
