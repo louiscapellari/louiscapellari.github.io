@@ -55,5 +55,5 @@ title: Accueil
 </div>
 
 ## Me contacter
-- LinkedIn : *(mets ton lien)*
-- Email : *(mets ton email professionnel)*
+- LinkedIn : *https://fr.linkedin.com/in/louiscapellari*
+- Email : *capellarilouis@gmail.com*
