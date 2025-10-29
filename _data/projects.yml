@@ -16,4 +16,4 @@
 
 - name: Analyses SQL VC
   repo: louiscapellari/analyses_SQL_VC
-  description: Analyses SQL à partir de base de données "vc_bdd"
+  description: Analyses SQL à partir de la base de données "vc_bdd"
