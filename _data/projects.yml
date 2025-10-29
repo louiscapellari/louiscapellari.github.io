@@ -1,0 +1,13 @@
+- name: Mon App A
+  repo: louiscapellari/mon-app-a
+  description: Application web React pour X
+  demo_url: https://louiscapellari.github.io/mon-app-a/
+
+- name: API B
+  repo: louiscapellari/api-b
+  description: API Node/Express (JWT, Prisma)
+  demo_url:
+
+- name: Script C
+  repo: louiscapellari/script-c
+  description: Automatisation Python pour Y
