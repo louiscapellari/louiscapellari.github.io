@@ -53,10 +53,3 @@ title: Accueil
 - LinkedIn : *https://fr.linkedin.com/in/louiscapellari*
 - Email : *capellarilouis@gmail.com*
 
-<style>
-/* masque le bouton généré par le thème */
-.page-header .btn[href*="github.com"] { display:none; }
-</style>
-
-<p><a class="btn" href="https://github.com/louiscapellari">Voir mon profil GitHub</a></p>
-
