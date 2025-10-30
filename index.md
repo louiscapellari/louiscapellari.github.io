@@ -50,6 +50,6 @@ title: Accueil
 </div>
 
 ## Me contacter
-- LinkedIn : *https://fr.linkedin.com/in/louiscapellari*
-- Email : *capellarilouis@gmail.com*
+- [LinkedIn](https://fr.linkedin.com/in/louiscapellari)
+- [Email](mailto:capellarilouis@gmail.com)
 
