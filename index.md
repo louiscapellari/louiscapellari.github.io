@@ -4,7 +4,7 @@ title: Accueil
 ---
 
 <style>
-/* Petite grille responsive pour des cartes propres */
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
@@ -12,7 +12,7 @@ title: Accueil
   margin: 24px 0;
 }
 .card {
-  border: 1px solid #e5e7eb; /* gris clair */
+  border: 1px solid #e5e7eb; 
   border-radius: 12px;
   padding: 16px;
   transition: transform .12s ease, box-shadow .12s ease;
@@ -41,8 +41,8 @@ title: Accueil
     <h3>{{ p.name }}</h3>
     <p>{{ p.description }}</p>
     <div>
-      <a href="https://github.com/{{ p.repo }}">Code</a>
-      <a href="https://github.com/{{ p.repo }}/archive/refs/heads/main.zip">ZIP</a>
+      <a href="https://github.com/{{ p.repo }}">Voir le projet</a>
+      <a href="https://github.com/{{ p.repo }}/archive/refs/heads/main.zip">Télécharger</a>
       {% if p.demo_url %}<a href="{{ p.demo_url }}">Démo</a>{% endif %}
     </div>
   </div>
